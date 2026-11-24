@@ -6,7 +6,7 @@ public class LongestSubString {
 
 	public static void main(String[] args) {
 
-		String str = "Data ScienceDataDtaa";
+		String str = "Java Programming";
 
 		HashSet<Character> set = new HashSet<>();
 
